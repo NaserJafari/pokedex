@@ -1,0 +1,21 @@
+.Pokemon {
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pokemon-list {
+  width: 10%;
+  margin: 50px;
+  height: auto;
+  flex-wrap: wrap;
+  border: 3px solid #fff;
+  text-align: center;
+}
+
+.searchbar {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  text-align: center;
+}

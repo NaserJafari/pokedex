@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  background-color: #000;
+  color: #fff;
+}
+
+a {
+  display: inline;
+  width: auto;
+  color: aqua;
+  padding: 10px;
+  height: auto;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
